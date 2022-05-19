@@ -23,6 +23,7 @@ export const ProductHeader = () => {
         </svg>
       </IconButton>
       <span className="ml-10">Новый продукт</span>
+     
     </div>
   );
 };
